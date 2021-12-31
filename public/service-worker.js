@@ -2,15 +2,18 @@ const APP_PREFIX = 'BudgetTracker';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 const FILES_TO_CACHE = [
-  '/',
+    '/',
     './index.html',
-    './index.js',
-    './db.js',
-    './styles.css',
-    './manifest.json'
-     
-    // '',
+    './js/index.js',
+    './js/db.js',
+    './css/styles.css',
+    './manifest.json',
+    './icons/icon-72x72.png',
+    './icons/icon-96x96.png',
+    './icons/icon-128x128.png',
+    './icons/icon-144x144.png'
 ]
+
 
 
 self.addEventListener('fetch', function (e) {
