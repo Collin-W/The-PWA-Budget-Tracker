@@ -6,7 +6,7 @@
 ### *Track your expenses and incomes*
 
 ## Description: 
-A perfect app for budgeting that functions online and offline, in or oputside browser.
+A perfect app for budgeting that functions online and offline..
 
 
   ## Link: 
