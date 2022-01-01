@@ -9,7 +9,8 @@
 A perfect app for budgeting that functions online and offline..
 
 
-  ## Link: 
+  ## Link:
+  https://sheltered-ravine-54419.herokuapp.com/
     
   ## Features:
 - can install the app
